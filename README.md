@@ -1,4 +1,4 @@
 # Users App 
 
-  * Manipulação da DOM com Js!
-  * Utilizando LocalStorage para armazenar os dados!
+ * DOM manipulation with JS!
+ * Using LocalStorage to store the data!
