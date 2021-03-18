@@ -130,7 +130,7 @@ class User{
          if(this.id > 0){
            users.map(user =>{
                if(user._id == this.id){
-                  Object.assign(u, this);
+                  Object.assign(this);
                }
 
                return user;
